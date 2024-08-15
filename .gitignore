@@ -20,19 +20,12 @@ dist/*
 .project
 .classpath
 .c9/
-.vscode
 *.launch
 .settings/
 *.sublime-workspace
 
 # IDE - VSCode
 *.code-workspace
-/.vscode
-.vscode/*
-!.vscode/settings.json
-!.vscode/tasks.json
-!.vscode/launch.json
-!.vscode/extensions.json
 
 # misc
 /.sass-cache
@@ -56,3 +49,7 @@ Thumbs.db
 
 # compiled templates
 src/app/homepage/pages/**/*.html
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
